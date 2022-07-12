@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactRopsten/static/css/main.76718612.chunk.css",
+    "main.js": "/reactRopsten/static/js/main.7c279b8c.chunk.js",
+    "main.js.map": "/reactRopsten/static/js/main.7c279b8c.chunk.js.map",
+    "runtime-main.js": "/reactRopsten/static/js/runtime-main.04c86c9d.js",
+    "runtime-main.js.map": "/reactRopsten/static/js/runtime-main.04c86c9d.js.map",
+    "static/js/2.d5083f95.chunk.js": "/reactRopsten/static/js/2.d5083f95.chunk.js",
+    "static/js/2.d5083f95.chunk.js.map": "/reactRopsten/static/js/2.d5083f95.chunk.js.map",
+    "index.html": "/reactRopsten/index.html",
+    "static/css/main.76718612.chunk.css.map": "/reactRopsten/static/css/main.76718612.chunk.css.map",
+    "static/js/2.d5083f95.chunk.js.LICENSE.txt": "/reactRopsten/static/js/2.d5083f95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04c86c9d.js",
+    "static/js/2.d5083f95.chunk.js",
+    "static/css/main.76718612.chunk.css",
+    "static/js/main.7c279b8c.chunk.js"
+  ]
+}
